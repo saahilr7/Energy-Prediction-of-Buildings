@@ -20,6 +20,6 @@ The raw data we obtained had three datasets:
 We have merged the three datasets into one and are splitting it into train and test.
 
 Questions answered:
-We started out with couple of problem statements in mind. After the predictions we can safely say that we are answering them with good accuracy.
+ After the predictions we can safely say that we are answering them with good accuracy.
 •	We are predicting the meter reading or energy a particular type of buildings consumes.
 •	This information can be used for planning future building constructions with reduced cost and energy emissions.
